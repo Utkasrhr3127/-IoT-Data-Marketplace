@@ -20,3 +20,6 @@ To revolutionize the way IoT data is exchanged by eliminating middlemen, ensurin
 - 🛡️ **Access Control**: Encrypted data & private listings for verified buyers only.
 - 🪙 **Tokenization**: Introduce utility or governance tokens to reward ecosystem participation.
 - 📊 **Analytics Suite**: Dashboard for analyzing purchase trends, listing metrics, and market value of data.
+
+## Contract Details: 0x2084Ae2298779CE26F8FEBdC57b9b9FBaec70D82
+![image](https://github.com/user-attachments/assets/8965c68d-1115-4306-84ba-ddce5164da23)
